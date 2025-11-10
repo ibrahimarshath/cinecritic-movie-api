@@ -216,13 +216,10 @@ Centralized error handling with proper status codes
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - https://github.com/ibrahimarshath
 
 ## 🙏 Acknowledgments
 
